@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="roborazzi-painter-jvm">
-    <output-path>$PROJECT_DIR$/roborazzi-painter/build/libs</output-path>
-    <root id="archive" name="roborazzi-painter-jvm.jar">
-      <element id="module-output" name="roborazzi.roborazzi-painter.jvmMain" />
-    </root>
-  </artifact>
-</component>
